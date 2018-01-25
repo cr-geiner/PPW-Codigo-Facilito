@@ -1,0 +1,28 @@
+body{
+	
+	font-family: Helvetica, Arial, sans-serif;
+}
+.pacifico{
+	font-family: 'Pacifico', cursive;
+}
+.title{
+	font-size: 2.5em;
+	margin-top: 0;
+}
+.main-header{
+	background-color: #34495E;
+	padding: 15px 10px;
+}
+.nav-link{
+	color: #FFFFFF;
+	margin-right: 4px;
+}
+.text-center{
+	text-align: center;
+}
+.red-text{
+	color: #F45B69;
+}
+.main-container{
+	min-height: 100vh;
+}
